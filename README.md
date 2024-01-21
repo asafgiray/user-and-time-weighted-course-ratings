@@ -1,3 +1,6 @@
+Course Reviews Database
+
+##TR
 Bu GitHub deposu, "course_reviews" adlı bir veritabanı ile etkileşimde bulunan ve kurs değerlendirmeleri için kullanıcı ve zaman ağırlıklı puan hesaplamalarını gerçekleştiren bir Python projesine ev sahipliği yapmaktadır.
 
 Özellikler
